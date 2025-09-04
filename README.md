@@ -3,7 +3,7 @@
 # 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Cocaine-&-Opioid Use Trends & Harms in Scotland (2015-2022)
 
 > MSc Medical Statistics & Health Data Science, University of Bristol  
-> Author: Fan Zhang 
+> Author: Fan Zhang  
 > Date: 26 Aug 2025  
 > Word count: 2 793 paper + 250 abstract + 323 plain-language summary  
 
