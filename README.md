@@ -4,8 +4,8 @@
 
 > MSc Medical Statistics & Health Data Science, University of Bristol  
 > Author: Fan Zhang 
-> Date: 26 Aug 2025
-> Word count: 2 793 paper + 250 abstract + 323 plain-language summary
+> Date: 26 Aug 2025  
+> Word count: 2 793 paper + 250 abstract + 323 plain-language summary  
 
 ---
 
