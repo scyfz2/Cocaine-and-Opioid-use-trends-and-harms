@@ -1,5 +1,3 @@
-# Cocaine-and-Opioid-use-trends-and-harms
-
 # 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Cocaine-&-Opioid Use Trends & Harms in Scotland (2015-2022)
 
 > MSc Medical Statistics & Health Data Science, University of Bristol  
